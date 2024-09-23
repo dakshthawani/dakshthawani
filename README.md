@@ -1,4 +1,6 @@
-[![MasterHead](https://i.pinimg.com/564x/44/a9/17/44a9176f6331ce107ea5b38d45bd1a6e.jpg)](https://dakshthawani.io)
+<a href="https://dakshthawani.io">
+  <img src="https://i.pinimg.com/564x/44/a9/17/44a9176f6331ce107ea5b38d45bd1a6e.jpg" alt="MasterHead" style="width: 100%;">
+</a>
 <h1 align="center">Hi 👋, I'm Daksh</h1>
 <h3 align="center">Final Year Computation & Mathematics Major at Mahindra University</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f5/2d/c9/f52dc984cb4b1a269ca4da7389618dd4.gif">
