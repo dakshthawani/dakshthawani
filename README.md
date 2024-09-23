@@ -1,5 +1,5 @@
 <a href="https://dakshthawani.io">
-  <img src="https://i.pinimg.com/564x/44/a9/17/44a9176f6331ce107ea5b38d45bd1a6e.jpg" alt="MasterHead" style="width: 100%;">
+  <img src="https://c4.wallpaperflare.com/wallpaper/888/134/454/hacking-binary-code-keyboard-internet-wallpaper-preview.jpg" alt="MasterHead" style="width: 100%;">
 </a>
 <h1 align="center">Hi 👋, I'm Daksh</h1>
 <h3 align="center">Final Year Computation & Mathematics Major at Mahindra University</h3>
